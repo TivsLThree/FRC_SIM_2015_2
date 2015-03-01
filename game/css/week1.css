@@ -1,0 +1,99 @@
+#next{
+	border:0;
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#FF4B37;
+	color:white;
+	font-size:16px;
+	position: fixed;
+	right: 10px;
+
+}
+.object{
+	border:0;
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#1F9E40;
+	color:white;
+	font-size:16px;
+	position: fixed;
+}
+#mechparts{
+	top:120;
+}
+#elecparts{
+	top:180;
+}
+#grants{
+	top:240;
+}
+#control{
+	top:300;
+}
+#code{
+	top:60;
+}
+#day{
+	background-color:#FF4B37;
+	right: 10px;
+	top: 50;
+}
+#pause{
+	border:0;
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#FF4B37;
+	color:white;
+	font-size:16px;
+	position: fixed;
+	left: 12px;
+}
+.upgrade{
+	border:0;
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#16A2CC;
+	color:white;
+	font-size:16px;
+	position: fixed;
+	left: 12px;
+}
+#bars{
+	position: absolute;
+	left: 10px;
+	bottom: 200px;
+	border:1px solid #000000;
+	width: 500px;
+	height: 50px;
+}
+#upgrade{
+	border:0;
+	padding:10px 20px;
+	border-radius:10px;
+	background-color:#16A2CC;
+	color:white;
+	font-size:16px;
+	position: fixed;
+	left: 12px;
+	bottom: 10px;
+}
+.ps{
+	border:0;
+	position: fixed;
+	left: 250px;
+}
+#mps{
+	top: 135px;
+}
+#cps{
+	top: 70px;
+}
+#eps{
+	top: 195px;
+}
+#gps{
+	top: 255px;
+}
+#kps{
+	top: 315px;
+}
